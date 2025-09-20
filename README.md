@@ -9,7 +9,7 @@ I enjoy turning ideas into reality through clean code, modern frameworks, and in
 
 - **Backend:** Django Rest Framework (DRF), Python  
 - **Frontend:** React, HTML, CSS  
-- **Database:** SQLite
+- **Database:** SQLite, PostgreSQL
 - **Other Tools:** Git, RESTful APIs, Authentication & Authorization  
 
 ---
@@ -21,7 +21,7 @@ A full-stack platform designed to simplify rental management for **landlords** a
 
 🔹 **Backend:** Django Rest Framework (API for authentication, property management, rent tracking)  
 🔹 **Frontend:** React (modern UI with smooth interactions)  
-🔹 **Database:** PostgreSQL  
+🔹 **Database:** Sqlite  
 
 👉 [View Repository](https://github.com/JOJ-Dev/Nyumbani) **  
 
