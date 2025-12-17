@@ -17,11 +17,14 @@ I enjoy turning ideas into reality through clean code, modern frameworks, and in
 ## 💼 Featured Project  
 
 ### 🏠 Nyumbani Rental Management Solutions  
-A full-stack platform designed to simplify rental management for **landlords** and **tenants**.  
+A full-stack platform designed to simplify rental management for **landlords** and **tenants**.
+Visit nyumbanirentals.com
 
 🔹 **Backend:** Django Rest Framework (API for authentication, property management, rent tracking)  
 🔹 **Frontend:** React (modern UI with smooth interactions)  
 🔹 **Database:** Sqlite  
+
+This is not the MVP of the system the full system is private !
 
 👉 [View Repository](https://github.com/JOJ-Dev/Nyumbani) **  
 
@@ -39,7 +42,6 @@ A full-stack platform designed to simplify rental management for **landlords** a
 ## 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/georgemgichuru/)  
-- 🐦 [Portfolio](https://ggichuru.netlify.app/)  
 - 📧 Email: georgem.gichuru@gmail.com  
 
 ---
