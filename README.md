@@ -1,49 +1,19 @@
-# 👋 Hi, I'm George  
+# George Mwangi
 
-🚀 A passionate **Full-Stack Developer** with a focus on building scalable web applications using **Django Rest Framework (DRF)** and **React**.  
-I enjoy turning ideas into reality through clean code, modern frameworks, and intuitive design.  
+Software Engineer focused on web applications and game development.
 
----
+I am currently pursuing a Bachelors Degree in Software Engineering at United States International University - Africa.
 
-## 🛠️ Tech Stack  
+## Stack
 
-- **Backend:** Django Rest Framework (DRF), Python  
-- **Frontend:** React, HTML, CSS  
-- **Database:** SQLite, PostgreSQL
-- **Other Tools:** Git, RESTful APIs, Authentication & Authorization  
+Python, Django, JavaScript, React, PostgreSQL, MySQL, C++, Opengl, Unity, C#
 
----
+## Projects
 
-## 💼 Featured Project  
+- [Snake Game (C++ / OpenGL)](https://github.com/georgemgichuru/Snake-Game)
+- [Nyumbani Rental Management System (private)](https://nyumbanirentals.com)
 
-### 🏠 Nyumbani Rental Management Solutions  
-A full-stack platform designed to simplify rental management for **landlords** and **tenants**.
-Visit nyumbanirentals.com
+## Contact
 
-🔹 **Backend:** Django Rest Framework (API for authentication, property management, rent tracking)  
-🔹 **Frontend:** React (modern UI with smooth interactions)  
-🔹 **Database:** Sqlite  
-
-This is not the MVP of the system the full system is private !
-
-👉 [View Repository](https://github.com/JOJ-Dev/Nyumbani) **  
-
----
-
-## 🌟 What I Do  
-
-✔️ Build **scalable REST APIs** with Django Rest Framework  
-✔️ Develop **responsive, dynamic UIs** with React  
-✔️ Write **clean and maintainable code** in Python  
-✔️ Integrate **databases** with efficient query handling  
-
----
-
-## 📫 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/georgemgichuru/)  
-- 📧 Email: georgem.gichuru@gmail.com  
-
----
-
-⭐️ Feel free to check out my repositories and connect with me!
+- Email: georgem.gichuru@gmail.com
+- LinkedIn: [linkedin.com/in/georgemgichuru](https://www.linkedin.com/in/georgemgichuru/)
