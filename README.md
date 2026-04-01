@@ -6,7 +6,7 @@ I am currently pursuing a Bachelors Degree in Software Engineering at United Sta
 
 ## Stack
 
-Python, Django, JavaScript, React, PostgreSQL, MySQL, C++, Opengl, Unity, C#
+Python, Django, JavaScript, C#, Java, C++, React, PostgreSQL, MySQL, Opengl, Unity
 
 ## Projects
 
