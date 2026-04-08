@@ -1,12 +1,14 @@
 # George Mwangi
 
-Software Engineer focused on web applications and game development.
+Software Engineer focused on web applications, machine learning and game development.
 
 I am currently pursuing a Bachelors Degree in Software Engineering at United States International University - Africa.
 
 ## Stack
 
-Python, Django, JavaScript, C#, Java, C++, React, PostgreSQL, MySQL, Opengl, Unity
+Python, JavaScript, C#, Java, C++, SQL, MongoDB
+
+Opengl, Unity ,Django, React, Tensorflow, sckitlearn, pandas
 
 ## Projects
 
