@@ -14,6 +14,7 @@ Opengl, Unity ,Django, React, Tensorflow, sckitlearn, pandas
 
 - [Snake Game (C++ / OpenGL)](https://github.com/georgemgichuru/Snake-Game)
 - [Nyumbani Rental Management System (private)](https://nyumbanirentals.com)
+- [Book Recommendation Engine with Machine Learning](https://github.com/georgemgichuru/llm-semantic-book-recommender)
 
 ## Contact
 
