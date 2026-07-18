@@ -94,16 +94,17 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=georgemgichuru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=georgemgichuru&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgemgichuru&theme=tokyonight" alt="GitHub stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=georgemgichuru&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgemgichuru&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgemgichuru&theme=tokyonight" alt="Top languages by repo"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgemgichuru&theme=tokyonight" alt="Most-committed languages"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=georgemgichuru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgemgichuru&theme=tokyonight&utcOffset=3" alt="Productive time"/>
 
 </div>
 
