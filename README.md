@@ -76,8 +76,7 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 
 > Contributions I'm proud of in the broader open-source ecosystem.
 
-<!-- TODO: replace the href below with George's actual Spark Connect C++ PR/repo URL -->
-- 🔥 **[Apache Spark Connect — C++ Client](REPLACE_WITH_YOUR_SPARK_CONNECT_CPP_URL)** — contributed to bringing the Spark Connect client experience to **C++**, enabling native applications to talk to Spark clusters over the Spark Connect protocol.
+- 🔥 **[Apache Spark Connect — C++ Client](https://github.com/irfanghat/spark-connect-cpp)** — contributed to bringing the Spark Connect client experience to **C++**, enabling native applications to talk to Spark clusters over the Spark Connect protocol.
 <!-- Add more contributions here as you make them -->
 
 <!-- ======================= PROJECTS ======================= -->
