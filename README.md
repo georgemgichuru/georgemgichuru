@@ -28,7 +28,7 @@
 <!-- ======================= ABOUT ======================= -->
 ## 👋 About Me
 
-I'm **George Mwangi**, a Software Engineer who loves building robust web applications and exploring the systems that make them scale. I'm currently pursuing a **Bachelor's Degree in Software Engineering** at **United States International University – Africa (USIU-A)**.
+I'm **George Mwangi**, a Software Engineer who loves building robust web applications, exploring the systems that make them scale, and applying machine learning to real problems. I'm currently pursuing a **Bachelor's Degree in Software Engineering** at **United States International University – Africa (USIU-A)**.
 
 - 🧠 I care about clean backends, distributed systems, and thoughtful system design.
 - 🌍 I share my professional career progress, tech ideas, and honest opinions on **[LinkedIn](https://www.linkedin.com/in/georgemgichuru)** — come say hi and follow along.
@@ -39,7 +39,7 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,react,redis,aws,postgres,mysql,mongodb,git,linux,docker&perline=8" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,react,redis,aws,postgres,mysql,mongodb,tensorflow,git,linux,docker&perline=8" alt="tech stack"/>
 
 </div>
 
@@ -55,6 +55,9 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
   <img src="https://img.shields.io/badge/REST%20API%20Design-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20%2F%20NoSQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/System%20Design-2C3E50?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 <details>
@@ -84,7 +87,7 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 | :------ | :---------- | :--- |
 | **[Snake Game](https://github.com/georgemgichuru/Snake-Game)** | A classic Snake game rendered from scratch with real-time graphics. | `C++` · `OpenGL` |
 | **[Nyumbani](https://github.com/georgemgichuru/Nyumbani)** | Apartment & rental management platform for landlords and tenants — live at [nyumbanirentals.com](https://nyumbanirentals.com). | `Django` · `React` · `PostgreSQL` |
-| **_Coming soon_** | _New project — pin & describe here._ | `—` |
+| **[Book Recommendation Engine](https://github.com/georgemgichuru/llm-semantic-book-recommender)** | LLM-powered semantic book recommender that suggests reads from natural-language queries. | `Python` · `ML` · `LLMs` |
 | **_Coming soon_** | _New project — pin & describe here._ | `—` |
 
 <!-- ======================= GITHUB STATS ======================= -->
