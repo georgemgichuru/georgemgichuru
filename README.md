@@ -87,7 +87,7 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 | **[Snake Game](https://github.com/georgemgichuru/Snake-Game)** | A classic Snake game rendered from scratch with real-time graphics. | `C++` · `OpenGL` |
 | **[Nyumbani](https://github.com/georgemgichuru/Nyumbani)** | Apartment & rental management platform for landlords and tenants — live at [nyumbanirentals.com](https://nyumbanirentals.com). | `Django` · `React` · `PostgreSQL` |
 | **[Book Recommendation Engine](https://github.com/georgemgichuru/llm-semantic-book-recommender)** | LLM-powered semantic book recommender that suggests reads from natural-language queries. | `Python` · `ML` · `LLMs` |
-| **_Coming soon_** | _New project — pin & describe here._ | `—` |
+| **[Art Caffe Examination System](https://github.com/georgemgichuru/probable-eureka)** | Offline-first exam platform for Art Caffe employees — exam creation from Word docs, auto-grading, AI-assisted grading via GROK, and horizontal scaling for 1000+ concurrent users. | `Python` · `Docker` · `Redis` |
 
 <!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Contribution Stats
