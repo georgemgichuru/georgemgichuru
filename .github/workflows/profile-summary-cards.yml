@@ -1,0 +1,32 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # Regenerate daily so the stats stay fresh
+  schedule:
+    - cron: "17 1 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Regenerate whenever this workflow is edited
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+# Needed so the action can commit the generated SVGs back to the repo
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          # Nairobi is UTC+3 — controls the "productive time" card
+          UTC_OFFSET: 3

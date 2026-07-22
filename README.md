@@ -92,19 +92,24 @@ I'm **George Mwangi**, a Software Engineer who loves building robust web applica
 <!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Contribution Stats
 
+<!--
+  These cards are generated as static SVGs by the GitHub Action in
+  .github/workflows/profile-summary-cards.yml and committed into the repo,
+  so they are served as plain files and never hit third-party rate limits.
+-->
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgemgichuru&theme=tokyonight" alt="GitHub stats"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
 <img height="180" src="https://streak-stats.demolab.com/?user=georgemgichuru&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgemgichuru&theme=tokyonight" alt="Top languages by repo"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgemgichuru&theme=tokyonight" alt="Most-committed languages"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages"/>
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgemgichuru&theme=tokyonight&utcOffset=3" alt="Productive time"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
